@@ -45,7 +45,7 @@ It is a Language changer for Valorant China servers.
    2번의 해결방법을 실행하려 하실 경우, 필요한 파일들의 기본 경로를 참고하시면 됩니다.
    
    아래는 기본경로입니다.
-   
+
    C:\Riot Games\VALORANT\live\ShooterGame\Content\Paks\en_US_Audio-WindowsClient.pak
    C:\Riot Games\VALORANT\live\ShooterGame\Content\Paks\en_US_Audio-WindowsClient.sig
    C:\Riot Games\VALORANT\live\ShooterGame\Content\Paks\en_US_Text-WindowsClient.pak
