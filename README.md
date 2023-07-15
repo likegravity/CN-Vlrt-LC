@@ -14,6 +14,7 @@ It is a Language changer for Valorant China servers.
 구버전 대비 변경사항
 ---------------------------------------------------
 1.UI추가를 포함한 기능으로 새로 만들었습니다.
+
 ![ui](https://github.com/likegravity/LangChanger_ForChinaValorant/assets/110320707/a896ad5f-4080-4a13-8511-769a420bfc97)
 
 2.이 프로그램은 중국서버에서의 언어변경을 지원합니다. 만, 영어만을 한정적으로 지원합니다.
