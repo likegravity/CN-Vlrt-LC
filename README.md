@@ -63,12 +63,13 @@ It is a Language changer for Valorant China servers.
 
 개발용도로 참고하고싶은 개발자라면
 ------------------
-   만약 자신이 C# 시작한지 5일도 안된 사람의 코드를 참고하고싶다면,
-   다음과 같은 Nuget package 들이 필요합니다.
+만약 자신이 C# 시작한지 5일도 안된 사람의 코드를 참고하고싶다면,
+다음과 같은 Nuget package 들이 필요합니다.
    
-   "소스를 업데이트 할때 필요한 Nuget 패키지들"
-    1. Guna.UI2.WinForms
-    2. Costura.Fody
+"소스를 업데이트 할때 필요한 Nuget 패키지들"
+   
+1. Guna.UI2.WinForms
+2. Costura.Fody
 
 
 
