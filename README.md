@@ -1,3 +1,8 @@
+
+
+[다운로드링크](https://github.com/likegravity/LC_ForChinaValorant/releases/download/C%23/Language.changer.zip)
+
+
 # LC_ForChinaValorant
 # Chinese to English(no voice provision)
 # 중국어에서 영어로 바꿔주는 프로그램입니다.(근데 보이스 안들림)
