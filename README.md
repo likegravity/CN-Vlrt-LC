@@ -59,4 +59,5 @@ If you're a developer looking to reference this, and you’ve only been working 
 **"NuGet packages required for source code updates"**:
 - Guna.UI2.WinForms
 - Costura.Fody
+- buy me coffee 100usd
 
