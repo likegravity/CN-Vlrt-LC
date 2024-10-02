@@ -54,7 +54,7 @@ If the filenames don’t start with "en_US", switch your Valorant language to En
 Renaming the file won’t change its functionality, just like calling a fridge an air conditioner doesn’t make it one.
 
 # For Developers Interested in This Code:  
-If you're a developer looking to reference this, and you’ve only been working with C# for less than five days, you’ll need the following NuGet packages:
+If you’re looking to reference code from a developer who’s been using C# for less than five days, you’ll need the following NuGet packages.
 
 **"NuGet packages required for source code updates"**:
 - Guna.UI2.WinForms
